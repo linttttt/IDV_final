@@ -1,0 +1,5 @@
+"0","htmltools::tags$script("
+"0","  id=""chartB-x"","
+"0","  type=""application/json"","
+"0","  chartB$allYears |> jsonlite::toJSON(auto_unbox = T)"
+"0",")"

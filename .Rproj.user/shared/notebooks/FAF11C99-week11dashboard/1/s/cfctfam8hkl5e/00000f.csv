@@ -1,0 +1,6 @@
+"0","chartA$tb0$elementId <- ""widget-chartA"""
+"0","chartA$tb0 |>"
+"0","  htmlwidgets::onRender(readLines(""chartA.js""))"
+"2","Error in copyDependencyToDir(dep, libdir, FALSE) : 
+  Can't copy dependency files that don't exist: '/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library/DT/htmlwidgets/lib/datatables/js/jquery.dataTables.min.js', '/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library/DT/htmlwidgets/lib/datatables/js/dataTables.bootstrap.min.js', '/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library/DT/htmlwidgets/lib/datatables/css/dataTables.bootstrap.min.css', '/Library/Frameworks/R.framework/Versions/4.2-arm64/Resources/library/DT/htmlwidgets/lib/datatables/css/dataTables.bootstrap.extra.css'
+"

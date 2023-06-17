@@ -1,0 +1,5 @@
+"0","htmltools::tags$script("
+"0","  type=""application/json"","
+"0","  id=""chartA-template"","
+"0","   chartA$plotlyTemplate |> jsonlite::toJSON(auto_unbox = T)"
+"0",")"

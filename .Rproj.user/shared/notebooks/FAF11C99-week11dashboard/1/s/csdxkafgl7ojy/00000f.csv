@@ -1,0 +1,8 @@
+"0","chartC$complete$trace4highlight$withScatterGL_highlightGrey$elementId <- ""widget-chartC"""
+"0","chartC$complete$trace4highlight$withScatterGL_highlightGrey "
+"2","Setting the `off` event (i.e., 'plotly_doubleclick') to match the `on` event (i.e., 'plotly_hover'). You can change this default via the `highlight()` function.
+"
+"2","Warning: 'scattergl' trace types don't currently render in RStudio on Windows. Open in another web browser (IE, Chrome, Firefox, etc)."
+"2","Setting the `off` event (i.e., 'plotly_doubleclick') to match the `on` event (i.e., 'plotly_hover'). You can change this default via the `highlight()` function.
+"
+"2","Warning: 'scattergl' trace types don't currently render in RStudio on Windows. Open in another web browser (IE, Chrome, Firefox, etc)."
